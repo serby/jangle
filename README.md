@@ -1,4 +1,4 @@
-# jangle
+# jangle - Flow control for asynchronous operations that aren't well handled by async.
 
 [![build status](https://secure.travis-ci.org/serby/jangle.png)](http://travis-ci.org/serby/jangle)
 

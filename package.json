@@ -17,5 +17,8 @@
 	"dependencies": {
 		"async": "~0.1"
 	},
-	"devDependencies": {}
+	"devDependencies": {
+		"mocha": "*",
+		"should": "*"
+	}
 }
