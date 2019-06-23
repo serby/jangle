@@ -1,6 +1,6 @@
 # jangle - Flow control for asynchronous operations that aren't well handled by async.
 
-[![build status](https://secure.travis-ci.org/serby/jangle.png)](http://travis-ci.org/serby/jangle)
+[![build status](https://secure.travis-ci.org/serby/jangle.png)](http://travis-ci.org/serby/jangle) [![Greenkeeper badge](https://badges.greenkeeper.io/serby/jangle.svg)](https://greenkeeper.io/)
 
 ## Installation
 
